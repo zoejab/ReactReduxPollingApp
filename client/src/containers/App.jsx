@@ -1,15 +1,14 @@
 import React from 'react';
-import api from '../services/api';
+import { Provider } from 'react-redux';
 
-// const App = () => <div>App wrosk</div>;
+import { store } from '../store';
+import ErrorMessage from '../components/ErrorMessage';
 
-class App extends React.Component {
-
-    render() {
-        return (
-            <div> App works again</div>
-        )
-    }
-}
+const App = () => (
+    <Provider store={store}>
+       <div> App works. </div> 
+       <ErrorMessage />
+    </Provider>
+)
 
 export default App;
