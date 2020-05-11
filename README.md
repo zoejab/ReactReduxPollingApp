@@ -1,5 +1,5 @@
 ## MERN Stack Polling Application
-![application](https://media.giphy.com/media/jOVIlER46RL6UUvvUa/giphy.gif){:height="350px" width="350px"}
+![application](https://media.giphy.com/media/jOVIlER46RL6UUvvUa/giphy.gif =250x250)
 
 ## Instructions
 1. Clone this repo.
