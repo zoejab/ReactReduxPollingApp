@@ -1,5 +1,5 @@
 ## MERN Stack Polling Application
-![](https://media.giphy.com/media/jOVIlER46RL6UUvvUa/giphy.gif | width=500)
+<img src="https://media.giphy.com/media/jOVIlER46RL6UUvvUa/giphy.gif " alt="Your image title" width="250"/>
 
 ## Instructions
 1. Clone this repo.
