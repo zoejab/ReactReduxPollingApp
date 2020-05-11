@@ -1,5 +1,5 @@
 ## MERN Stack Polling Application
-![](https://gph.is/g/4oRq9We)
+![](https://media.giphy.com/media/SXriv6nW9WR6tSvXDw/giphy.gif)
 
 ## Instructions
 1. Clone this repo.
