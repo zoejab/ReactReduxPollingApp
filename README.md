@@ -1,5 +1,5 @@
 ## MERN Stack Polling Application
-
+![](https://gph.is/g/4oRq9We)
 
 ## Instructions
 1. Clone this repo.
@@ -12,7 +12,7 @@
 - npm install
 - create .env file with the following 
 ``` 
-PORT = 3030
+PORT = 3030 (if you use a different port, you must also change the url in client/src/services/api.js)
 DATABASE = 'mongodb://localhost/<DATABASE_NAME>'
 ```
 - nodemon
