@@ -1,5 +1,7 @@
-MERN Stack Polling Application
+## MERN Stack Polling Application
 
+
+## Instructions
 1. Clone this repo.
 2. Install MongoDB if you don't already have. I recommend doing this through homebrew. 
 3. Run 'mongod'.
@@ -9,7 +11,8 @@ MERN Stack Polling Application
 5. In server directory do the following: 
 - npm install
 - create .env file with the following 
-``` PORT = 3030
+``` 
+PORT = 3030
 DATABASE = 'mongodb://localhost/<DATABASE_NAME>'
 ```
 - nodemon
@@ -17,7 +20,7 @@ DATABASE = 'mongodb://localhost/<DATABASE_NAME>'
 7. Create a new poll.
 8. Start voting! 
 
-Main technologies used:
+## Main technologies used:
 - NodeJS
 - React
 - Redux
