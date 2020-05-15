@@ -69,7 +69,7 @@ class CreatePoll extends React.Component {
                         <button className='ui button' type='button' onClick={this.addAnswer}>Add options + </button>
                         <button className='ui button' type='submit'> Submit </button>
 
-                        <div class="status" style={{ marginTop: '20px'}}> 
+                        <div className="status" style={{ marginTop: '20px'}}> 
                             { this.state.success && <FlashMessage duration={2000}> <strong>Submitted </strong>
                                 </ FlashMessage> 
                             }
